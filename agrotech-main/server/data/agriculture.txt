@@ -1,0 +1,83 @@
+# AgroTech Overview
+
+AgroTech is a technology-driven agricultural support platform designed to provide farmers and users with information about crops, farming practices, market prices, weather conditions, pest management, and agricultural policies.
+
+# Agricultural Practices
+
+Agriculture involves soil preparation, seed selection, sowing, irrigation, fertilizer application, crop monitoring, pest control, harvesting, storage, transportation, and marketing.
+
+# Agricultural Seasons
+
+Common agricultural seasons in India include Kharif, Rabi, and Zaid. Crop selection and sowing periods depend on geographic location, rainfall, temperature, and weather conditions.
+
+# Soil Management
+
+Soil testing helps farmers understand soil fertility, pH levels, nutrient availability, and crop suitability. Proper soil management includes crop rotation, organic manure, composting, and erosion prevention.
+
+# Seed Selection and Sowing
+
+Farmers should select healthy and high-quality seeds suitable for local soil and climate conditions. Seed quality, planting depth, spacing, and sowing time influence crop productivity.
+
+# Irrigation Management
+
+Irrigation methods include surface irrigation, sprinkler irrigation, and drip irrigation. Farmers should select irrigation methods based on crop requirements, soil conditions, and water availability.
+
+# Fertilizers and Nutrients
+
+Fertilizers provide essential nutrients such as nitrogen, phosphorus, and potassium. Fertilizer recommendations should consider soil test results, crop type, and crop growth stage.
+
+# Pest and Disease Management
+
+Farmers should correctly identify pests and crop diseases before applying pesticides, insecticides, or fungicides. Integrated Pest Management combines biological, cultural, mechanical, and chemical methods.
+
+# Organic Farming
+
+Organic farming includes composting, crop rotation, green manure, biological pest control, and reduced use of synthetic agricultural chemicals.
+
+# Weather and Crop Advisory
+
+Weather conditions such as rainfall, temperature, humidity, drought, floods, and extreme weather events can affect agricultural activities and crop productivity.
+
+# Harvesting and Storage
+
+Harvesting should be performed at the appropriate crop maturity stage. Post-harvest management includes cleaning, grading, drying, packaging, storage, and transportation.
+
+# Agricultural Market Prices
+
+Agricultural commodity prices may vary between states, districts, markets, mandis, seasons, and time periods based on demand, supply, quality, and transportation costs.
+
+# Minimum Support Price MSP
+
+Minimum Support Price is a government-announced price mechanism applicable to selected agricultural commodities. MSP information should be verified using current official government sources.
+
+# Government Schemes and Subsidies
+
+Agricultural schemes, subsidies, insurance programs, loans, and financial assistance are subject to eligibility requirements, documentation, deadlines, and government policy changes.
+
+# Crop Insurance
+
+Crop insurance coverage, premiums, claims, compensation, and eligibility conditions depend on the applicable insurance scheme and policy terms.
+
+# Agricultural Loans
+
+Agricultural loans may involve interest rates, repayment conditions, collateral requirements, and eligibility criteria determined by banks and financial institutions.
+
+# AgroTech AI Assistant
+
+The AgroTech AI assistant provides agricultural information based on user queries and available knowledge. Users should provide crop name, location, crop stage, symptoms, and soil conditions for more relevant responses.
+
+# Vector Search and Pinecone
+
+Agricultural documents are divided into smaller chunks and converted into vector embeddings using embedding models. The embeddings are stored and indexed in Pinecone for semantic search.
+
+# User Queries
+
+Users can ask questions about crops, soil, fertilizers, irrigation, pests, diseases, weather, market prices, MSP, government schemes, agricultural loans, and farming practices.
+
+# Terms and Conditions
+
+AgroTech information is provided for general informational and educational purposes. Users should verify important agricultural, financial, pesticide, fertilizer, and government policy decisions with qualified professionals or official sources.
+
+# Disclaimer
+
+AgroTech does not guarantee crop yield, market prices, weather accuracy, financial returns, government benefits, or the success of recommended agricultural practices. Agricultural information and policies may change over time.
